@@ -1,0 +1,8 @@
+modey:
+ morning:
+qweeq(tictactoe game)/home/java/qweeq.java
+add on top panel "win/lost"
+ midday:
+uf, can stop my hit on my hit. now need make stop on comp hit.
+ha! a did it!
+2\3
